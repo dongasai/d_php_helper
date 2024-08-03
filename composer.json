@@ -3,7 +3,7 @@
     "description": "dongasai php helper function",
     "type": "library",
     "require": {
-        "nesbot/carbon": "^3.7"
+        "nesbot/carbon": "*"
     },
     "license": "MIT",
     "autoload": {
