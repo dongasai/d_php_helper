@@ -1,0 +1,21 @@
+{
+    "name": "dongasai/php-helper",
+    "description": "dongasai php helper function",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "^3.7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dongasai",
+            "email": "154582970@qq.com",
+            "homepage": "https://github.com/dongasai"
+        }
+    ]
+}
